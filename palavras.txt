@@ -2,3 +2,16 @@ banana
 melancia
 morango
 maça
+manga
+acerola
+pitanga
+laranja
+limao
+abacaxi
+jabuticaba
+pitaya
+alface
+couve
+repolho
+tangerina
+groselha
